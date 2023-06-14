@@ -31,11 +31,11 @@ The following is a list of our current product areas:
 SAAS generally targets a 2-monthly release cadence for new features. The upcoming feature activations are planned as follows:
 | **Release** | **Version** | **Type** | **Schedule** |
 |-|-|-|-|
-| SAAS 2023.1.0 | 2023.1.0 | Feature Activation | February 22, 2023 |
-| SAAS 2023.2.0 | 2023.2.0 | Feature Activation | April 17, 2023 |
-| SAAS 2023.3.0 | 2023.2.0 | Feature Activation | June 12, 2023 |
-| SAAS 2023.4.0 | 2023.2.0 | Feature Activation | September 18, 2023 |
-| SAAS 2023.5.0 | 2023.2.0 | Feature Activation | November 20, 2023 |
+| SAAS 2023 / 1 | 3.1.x | Feature Activation | February 22, 2023 |
+| SAAS 2023 / 2 | 3.2.x | Feature Activation | April 17, 2023 |
+| SAAS 2023 / 3 | 3.3.x | Feature Activation | June 12, 2023 |
+| SAAS 2023 / 4 | 4.1.x | Feature Activation | September 18, 2023 |
+| SAAS 2023 / 5 | 4.2.x | Feature Activation | November 20, 2023 |
 
 # Critical Bugs and Security Fixes
 In addition to the feature releases, critical bug and security fixes are made available in the form of maintenance releases, with a corresponding maintenance update generally happening on a higher frequency.
